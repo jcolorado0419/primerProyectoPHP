@@ -16,6 +16,7 @@ $edad=28;
 //echo($edad);
 $estatura=1.65;
 //echo($estatura);
+$costo=5;
 
 
 echo("Hola Mundo ");
